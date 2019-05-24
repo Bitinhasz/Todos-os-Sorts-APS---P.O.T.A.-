@@ -1,5 +1,8 @@
 #include<stdio.h>
  
+// CIN04S1
+// Lucas Mathews - 17334977
+// Victor Enrique - 17292824
 
 int largest(int a[], int n)
 {
