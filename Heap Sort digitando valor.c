@@ -2,6 +2,10 @@
 #include<stdio.h>
 #include<time.h>
 
+// CIN04S1
+// Lucas Mathews - 17334977
+// Victor Enrique - 17292824
+
 main(){
 	int tamanho_vetor, *vetor,contador,contador2=0,maior,cont,sair=0,menu1;
 	int aux;
@@ -38,7 +42,7 @@ main(){
 				cont = tamanho_vetor-1;
 										
 				while(cont >= 0 ){
-					//mandando o maior para o começo
+					//mandando o maior para o comeÃ§o
 					heap_sort(vetor, cont);
 					//mandando maior para o final
 					for(contador = 0; contador < cont; contador++){
