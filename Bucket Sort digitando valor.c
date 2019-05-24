@@ -1,5 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+// CIN04S1
+// Lucas Mathews - 17334977
+// Victor Enrique - 17292824
  
 void Bucket_Sort(int array[], int n)
 {  
