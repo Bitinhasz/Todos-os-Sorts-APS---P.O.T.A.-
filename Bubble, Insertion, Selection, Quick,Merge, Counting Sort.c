@@ -4,6 +4,11 @@
 #include <time.h>
 #include <conio.h>
 
+// CIN04S1
+// Lucas Mathews - 17334977
+// Victor Enrique - 17292824
+
+
 void quick_sort(int *a, int left, int right);
 void mergesort(int *vet, int n);
 void sort(int *vet, int *c, int i, int f);
